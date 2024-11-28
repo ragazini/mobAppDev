@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "ROI Staff Directory",
+    "slug": "roi-staff-directory",
+    "id": "18a543aa-d106-4134-ac8d-4080aa65122b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ROI_logo.png",
+    "splash": {
+      "image": "./assets/ROI_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Amy043/ROI_staffDirectory.git"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ROI_logo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/ROI_logo.png"
+    }
+  }
+}
